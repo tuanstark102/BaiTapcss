@@ -1,14 +1,10 @@
-.external-style {
-    background-color: red;
-    color: white;
+.hello-style {
+    margin-top: 20px;
+    background-color: #003366;
+    color: #ffffff;
     text-align: center;
-    padding: 20px;
-    font-size: 24px;
-    font-weight: bold;
-}
-#internal-style {
-    background-color: green;
-    color: white;
-    padding: 10px;
-    font-size: 18px;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
 }
